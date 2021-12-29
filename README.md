@@ -1,4 +1,4 @@
 # Dijkstra
 
-node   Dijkstra.js   [2(input.txt)]
+node   Dijkstra.js   1.txt
 
